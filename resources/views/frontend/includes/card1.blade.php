@@ -17,7 +17,7 @@
             <div class="col-md-5 col-6">
                 <div class="card-content-inner d-flex ">
                     <div class="card-content-inner-icon ">
-                        <i class="bi bi-briefcase-fill custom-fs-20"></i>
+                        <i class="bi bi-currency-exchange custom-fs-20"></i>
                     </div>
                     <div class="card-content-inner-text mx-3">
                         <p class="my-0 py-0 custom-fw-600 custom-fs-22 line-height-1">6,800 <sub>AED</sub></p>
