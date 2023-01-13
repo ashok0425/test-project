@@ -8,8 +8,13 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                {{-- banner text  --}}
+                {{-- card 1 text  --}}
     @include('frontend.includes.card1')
+            </div>
+
+            <div class="col-md-6">
+                {{-- card 2 text  --}}
+    @include('frontend.includes.card2')
             </div>
         </div>
     </div>
