@@ -22,6 +22,12 @@
                 {{-- card 3  --}}
     @include('frontend.includes.card3')
             </div>
+
+            <div class="col-md-6 mt-0 pt-0">
+                {{-- card 3  --}}
+    @include('frontend.includes.card4')
+            </div>
         </div>
     </div>
+    <div class="mb-5"></div>
 @endsection
