@@ -12,7 +12,7 @@
     @include('frontend.includes.card1')
             </div>
 
-            <div class="col-md-6">
+            <div class="col-md-6 mt-3 mt-md-0">
                 {{-- card 2   --}}
     @include('frontend.includes.card2')
             </div>
@@ -23,7 +23,7 @@
     @include('frontend.includes.card3')
             </div>
 
-            <div class="col-md-6 mt-0 pt-0">
+            <div class="col-md-6  pt-0 mt-3 mt-md-0">
                 {{-- card 3  --}}
     @include('frontend.includes.card4')
             </div>
