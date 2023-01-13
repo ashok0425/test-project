@@ -1,5 +1,6 @@
+<div class="my-md-5 py-md-2 my-0 py-0"></div>
 <div class="container my-5">
-<div class="row">
+<div class="row ">
     <div class="col-md-9">
         <p class="my-0 py-0 custom-fs-22 custom-fw-500">
             Karma Yoga,you have <span class="custom-fw-700 text-primary">3 activities</span> live on Switch.
