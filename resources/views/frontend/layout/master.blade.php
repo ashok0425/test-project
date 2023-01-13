@@ -16,8 +16,8 @@
 
 
 
-
-
+{{-- main content  --}}
+@yield('content')
 
     
 
